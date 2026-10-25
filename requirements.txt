@@ -1,0 +1,6 @@
+streamlit
+streamlit-autorefresh
+numpy
+pillow
+imageio
+imageio-ffmpeg
